@@ -1,0 +1,5 @@
+excel file will be resulted out with mile unit  (0.182532802 miles Sule->Sule Myodaw Hall)
+python & java (0.277987316611144 km  Sule->Sule Myodaw Hall)
+
+
+=6731*ACOS(COS(RADIANS(90-B2))*COS(RADIANS(90-B3))+SIN(RADIANS(90-B2))*SIN(RADIANS(90-B3))*COS(RADIANS(C2-C3)))/1.609
